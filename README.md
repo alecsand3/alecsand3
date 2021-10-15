@@ -1,7 +1,7 @@
 - 👋 привет меня зовут @alecsand3
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me... https://vk.com/alecsand3
+- 🌱 В настоящее время я учусь .. (в школе 8 класс)
+- 📫 как со мной связаться... вк -> https://vk.com/alecsand3
+- дискорд alecsand3#5338
 
 <!---
 alecsand3/alecsand3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
